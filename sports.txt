@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<head><title>SPORTSS</title></head>
+<body bgcolor="black">
+       <font color="white" face="verdana">
+<header>
+<a href="index.html">
+
+<img src="img/loggo.jpg">
+
+
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td>Home</td>
+<td>Contact</td>
+<td>Terms of Use</td>
+<td>Privacy policy</td>
+</tr>
+</table>
+</nav>
+<hr>
+<h2>5 MOST FAMOUS SPORTS</h2> 
+
+<p>
+5 MOST FAMOUS SPORTS IN THE WORLD
+</p>  
+
+<p><strong>Baskeball</strong></p>
+
+<img src="img/basketball.jpg"> 
+
+
+<ul>
+<li>Basketball is one of the most popular sports in the world and one of the most widely viewed.</li>
+
+<p><strong>CRICKET</strong></p>
+
+<img src="img/cricket.jpg">
+
+
+<ul>
+<li>It is played by two teams on an oval and involves batting, fielding and bowling.</li>
+
+<p><strong>HOCKEY</strong></p>
+
+<img src="img/hockey.jpg">
+
+
+<ul>
+<li>a kind of invasion game that is played by two teams of eleven players.</li>
+
+<p><strong>SOCCER<strong><p>
+
+<img src="img/soccer.jpg">
+
+
+<ul>
+<li> a game played on a field between two teams of 11 players each with the object to propel a round ball
+ into the opponent's goal by kicking or by hitting it with any part of the body except the hands and arms.</li>
+
+
+<p><strong>TENNIS<strong><p>
+
+<img src="img/tennis.jpg">
+
+
+<ul>
+<li>a sequence of points played with the same player serving. </li>
+
+<p>
+THANKYOU
+</p>
+</body>
+
